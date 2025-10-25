@@ -2,6 +2,9 @@
 
 ## Сайт бронирования билетов в кинотеатр
 
+### Ссылка GitHub Pages
+- https://prostoksushino.github.io/shfe-diploma/
+
 ### Стек технологий
 - React 19.2.0
 - React Router 7.9.4
